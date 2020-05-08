@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Abraham Ayala:** 
 
-**Título:** 
+**Machine Crypter:** 
 
-**Resumen:**
+**Se trata de un minijuego interectivo en el que dentremos que desactivar varias bombas.**
 
 **Licencia: (creative Commons)**
 
