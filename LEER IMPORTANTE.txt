@@ -1,0 +1,7 @@
+Hola profesor, le escribo para facilitarle la correción con una guia.
+
+
+He mejorado el minijuego del personaje robot femenino, esto esta añadido en el hani original de la practica.
+El minijuego del segundo personaje masculino, esta enlazado mediante html.
+
+Saludoos!!!
